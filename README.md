@@ -41,5 +41,3 @@
 📍 Location: Blagnac, France  
 
 
----
-### 🚀 Let's build something amazing together! 😃

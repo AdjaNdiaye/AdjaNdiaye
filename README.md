@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Adja Magatte Ndiaye
 
-🎓 **IT Student | Future Data Scientist | Tech Enthusiast**
+🎓 **IT Student | Future Data Scientist | Tech Enthusiast**<br>
 💻 Passionate about software development, data science, and problem-solving.
 🌍 Originally from **Senegal**, currently based in **France**.
 

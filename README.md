@@ -1,15 +1,17 @@
 # 👋 Hello, I'm Adja Magatte Ndiaye
 
-🎓 **IT Student | Web Developer | Tech Enthusiast**
-💻 Passionate about software development, problem-solving, and teamwork.
+🎓 **IT Student | Future Data Scientist | Tech Enthusiast**
+💻 Passionate about software development, data science, and problem-solving.
+🌍 Originally from **Senegal**, currently based in **France**.
 
 ---
 ## 📜 About Me
 - 🎓 **IT Student @ IPI Toulouse** (2nd Year)
-- 🌐 Focused on **Full Stack Development**
+- 🌐 Focused on **Full Stack Development & Data Science**
 - 🖥️ Strong foundation in **Web & Software Development**
 - 🚀 Looking for a **Web Development Internship** (from February 2025)
-- 📚 Currently learning **Symfony 6, Advanced JavaScript & Angular**
+- 📚 Currently learning **Symfony 6, Advanced JavaScript, Angular & Data Science Fundamentals**
+- 🎯 Aspiring **Data Scientist**, exploring **Machine Learning & AI**
 - 🎨 In my free time, I enjoy **traveling, cooking, and music**
 
 ---
@@ -23,6 +25,11 @@
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+### **📊 Data Science & Machine Learning**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
 ### **🗄️ Databases & Backend**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PhpMyAdmin](https://img.shields.io/badge/PhpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
@@ -33,12 +40,17 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
+---
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
 
 ---
 ## 📫 Contact
 📩 Email: adjamagatte.ndiaye@outlook.com  
-📍 Location: Blagnac, France
+📍 Location: Blagnac, France  
+
 
 ---
 ### 🚀 Let's build something amazing together! 😃
+
 

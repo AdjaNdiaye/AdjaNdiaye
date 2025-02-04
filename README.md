@@ -35,10 +35,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-
----
 ## 📫 Contact
 📩 Email: adjamagatte.ndiaye@outlook.com  <br>
 📍 Location: Blagnac, France  

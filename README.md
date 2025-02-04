@@ -2,7 +2,7 @@
 
 🎓 **IT Student | Web Developer | Tech Enthusiast**<br>
 💻 Passionate about software development and problem-solving.<br>
-🌍 Originally from **Senegal**, currently based in **France**.
+
 
 ---
 ## 📜 About Me

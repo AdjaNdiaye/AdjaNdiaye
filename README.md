@@ -45,6 +45,7 @@
 ## 📫 Contact
 📩 Email: adjamagatte.ndiaye@outlook.com  <br>
 📍 Location: Blagnac, France  
+<br>
 ![GitHub followers](https://img.shields.io/github/followers/AdjaNdiaye?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/AdjaNdiaye?style=social)
 

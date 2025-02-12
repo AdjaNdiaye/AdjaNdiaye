@@ -44,6 +44,8 @@
 ## 📈 GitHub Metrics
 ![Metrics](https://github.com/lowlighter/metrics/blob/examples/metrics.classic.svg)
 
+![GitHub followers](https://img.shields.io/github/followers/AdjaNdiaye?style=social)
+![GitHub stars](https://img.shields.io/github/stars/AdjaNdiaye?style=social)
 
 ---
 ## 📫 Contact

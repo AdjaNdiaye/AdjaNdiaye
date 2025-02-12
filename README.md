@@ -34,6 +34,16 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+---
+## 📊 GitHub Stats
+![Adja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdjaNdiaye&show_icons=true&theme=radical)
+
+## 🔥 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdjaNdiaye&layout=compact&theme=radical)
+
+## 📈 GitHub Metrics
+![Metrics](https://github.com/lowlighter/metrics/blob/examples/metrics.classic.svg)
+
 
 ---
 ## 📫 Contact

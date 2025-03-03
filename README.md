@@ -45,6 +45,7 @@
 📍 Location: Blagnac, France  
 👩 Porfolio: https://adjandiaye.github.io/PorfolioAdja/
 <br>
+<br>
 ![GitHub followers](https://img.shields.io/github/followers/AdjaNdiaye?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/AdjaNdiaye?style=social)
 
